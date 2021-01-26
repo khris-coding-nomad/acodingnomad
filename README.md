@@ -19,7 +19,7 @@ I work remotely and like to travel a lot.
 
 <br />
 
-- 📍 Current location: Miami, FL
-- ⌨️ Coming next: React crash course 2021 (for beginners);
-- 💬 Ask me about anything, I am happy to help;
-- 💌 How to reach me: [@acodingnomad](https://www.instagram.com/acodingnomad/);
+- 📍 &nbsp;	Current location: Miami, FL
+- ⌨️ &nbsp;	Coming next: React crash course 2021 (for beginners);
+- 💬 &nbsp;	Ask me about anything, I am happy to help;
+- 💌 &nbsp;	How to reach me: [@acodingnomad](https://www.instagram.com/acodingnomad/);
